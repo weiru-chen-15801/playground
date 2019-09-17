@@ -1,4 +1,4 @@
-# Playground
+# Test
 
 A place to play with `git`.
 
